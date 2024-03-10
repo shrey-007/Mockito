@@ -1,4 +1,4 @@
-package dummy;
+package org.example.dummy;
 
 public class BookService {
     //it interacts with database

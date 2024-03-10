@@ -1,10 +1,7 @@
 package org.example.dummy;
 
 
-import dummy.Book;
-import dummy.BookRepository;
-import dummy.BookService;
-import dummy.EmailService;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

@@ -1,6 +1,6 @@
 package org.example.dummy;
 
-import dummy.EmailService;
+
 
 public class DummyEmailService implements EmailService {
     @Override
